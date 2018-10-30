@@ -1,0 +1,1054 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+     margin: 0px 100px 0px 100px;
+
+    
+}
+
+h1 {
+    font-family: 'Playfair Display bold', serif;
+    color: #111111;
+       
+}
+
+h2 {  
+    font-family: 'Playfair Display bold', serif;
+    color: #111111;
+}
+
+h3 {
+    font-family: 'Open Sans light', sans-serif;
+    color: #b7b7b7;
+}
+
+p {
+    font-family: 'Open Sans semi-bold', sans-serif;
+    color: #111111;
+}
+
+a {
+    font-family: 'Open Sans regular', sans-serif;
+    color: #111111;
+}
+
+span {
+    color: #558bff;
+}
+
+img.logo {
+    
+max-width:3.7em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.4em;
+    margin-left: 35px;
+}
+
+nav a:hover {
+    
+    text-decoration:line-through;
+    color: #d7d7d7;
+}
+
+.p1:hover {
+    transform: scale(1.1);
+}
+
+.p1 {
+    transition: 0.2s ease-in-out;
+}
+
+.p2:hover {
+    transform: scale(1.1);
+}
+
+.p2 {
+    transition: 0.2s ease-in-out;
+}
+
+.social a:hover {
+    text-decoration:line-through;
+    color: #d7d7d7;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 6%;
+}
+
+
+.welcome {
+
+    font-size: 9em;
+    line-height: 1.35em;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.Intro p{
+    
+font-size: 3.5em;
+line-height: 1.23em;        
+}
+
+.bio {
+    margin-bottom: 11%;  
+}
+
+.projects h1 {
+    font-size: 5.3em;
+    margin-bottom: 10%;
+}
+
+.contact h1 {
+    
+    font-size: 5.3em;
+    margin-bottom: 3%;
+}
+
+.getintouch h2 {
+    
+    font-size: 4em;
+    line-height: auto;
+    margin-bottom: 5%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 2em;
+    font-size: 1.7em;
+}
+
+footer {
+    margin-bottom: 10%
+}
+
+.heading h2 {
+    
+    font-size: 2.8em;
+}
+
+.heading h3 {
+    
+    font-size: 2em;
+    color: #d7d7d7;
+}
+
+@media (max-width: 600px) {
+    
+    body {
+        
+     margin: 0px 30px 0px 30px;   
+}
+    
+img.logo {
+    
+max-width: 2em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: .9em;
+    margin-left: 1.1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 12%;
+}
+
+.welcome {
+
+    font-size: 3em;
+    line-height: 1.35em;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.Intro p{
+    
+font-size: 1.3em;
+line-height: 1.26em;        
+}
+
+.bio {
+    margin-bottom: 20%;  
+}
+
+.projects h1 {
+    font-size: 2.6em;
+    margin-bottom: 15%;
+}
+
+.contact h1 {
+    
+    font-size: 2.6em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 2em;
+    line-height: auto;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: .5em;
+    font-size: 1em;
+}
+
+footer {
+    margin-bottom: 15%
+}
+
+.heading h2 {
+    
+    font-size: 1.7em;
+}
+
+.heading h3 {
+    
+    font-size: 1.2em;
+    color: #d7d7d7;
+    } 
+}
+
+
+
+@media (min-width: 600px) {
+    
+     body {
+        
+     margin: 0px 50px 0px 50px;   
+}
+    
+img.logo {
+    
+max-width: 3.2em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+    margin-left: .8em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 12%;
+}
+
+.welcome {
+
+    font-size: 4.4em;
+    line-height: 1.35em;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.Intro p{
+    
+font-size: 2em;
+line-height: 1.26em;        
+}
+
+.bio {
+    margin-bottom: 20%;  
+}
+
+.projects h1 {
+    font-size: 3.7em;
+    margin-bottom: 15%;
+}
+
+.contact h1 {
+    
+    font-size: 3.7em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 2.5em;
+    line-height: auto;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: .9em;
+    font-size: 1.3em;
+}
+
+footer {
+    margin-bottom: 15%
+}
+
+.heading h2 {
+    
+    font-size: 1.7em;
+}
+
+.heading h3 {
+    
+    font-size: 1.2em;
+    color: #d7d7d7;
+        } 
+}
+
+@media (min-width: 768px) {
+    
+     body {
+        
+     margin: 0px 50px 0px 50px;   
+}
+    
+img.logo {
+    
+max-width: 3.6em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.3em;
+    margin-left: 1.1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 12%;
+}
+
+.welcome {
+
+    font-size: 5.8em;
+    line-height: 1.35em;
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.Intro p{
+    
+font-size: 2.2em;
+line-height: 1.24em;        
+}
+
+.bio {
+    margin-bottom: 20%;  
+}
+
+.projects h1 {
+    font-size: 5em;
+    margin-bottom: 15%;
+}
+
+.contact h1 {
+    
+    font-size: 5em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 3.3em;
+    line-height: 1.03em;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.6em;
+}
+
+footer {
+    margin-bottom: 15%
+}
+
+.heading h2 {
+    
+    font-size: 2em;
+}
+
+.heading h3 {
+    
+    font-size: 1.5em;
+    color: #d7d7d7;
+        } 
+}
+
+@media (min-width: 900px) {
+    
+     body {
+        
+     margin: 0px 65px 0px 65px;   
+}
+    
+img.logo {
+    
+max-width: 4em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 10%;
+}
+
+.welcome {
+
+    font-size: 6.8em;
+    line-height: 1.35em;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.Intro p{
+    
+font-size: 2.5em;
+line-height: 1.24em;        
+}
+
+.bio {
+    margin-bottom: 15%;  
+}
+
+.projects h1 {
+    font-size: 5.7em;
+    margin-bottom: 10%;
+}
+
+.contact h1 {
+    
+    font-size: 5.7em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 3.7em;
+    line-height: 1.03em;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap:40px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.6em;
+}
+
+footer {
+    margin-bottom: 8%
+}
+
+.heading h2 {
+    
+    font-size: 2.2em;
+}
+
+.heading h3 {
+    
+    font-size: 1.7em;
+    color: #d7d7d7;
+        } 
+}
+
+@media (min-width: 1080px) {
+    
+     body {
+        
+     margin: 0px 75px 0px 75px;   
+}
+    
+img.logo {
+    
+max-width: 4em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 7%;
+}
+
+.welcome {
+
+    font-size: 8.3em;
+    line-height: 1.35em;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.Intro p{
+    
+font-size: 3em;
+line-height: 1.24em;        
+}
+
+.bio {
+    margin-bottom: 15%;  
+}
+
+.projects h1 {
+    font-size: 6.3em;
+    margin-bottom: 10%;
+}
+
+.contact h1 {
+    
+    font-size: 6.3em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 4.7em;
+    line-height: 1.03em;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap:50px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.8em;
+}
+
+footer {
+    margin-bottom: 8%
+}
+
+.heading h2 {
+    
+    font-size: 2.4em;
+}
+
+.heading h3 {
+    
+    font-size: 1.9em;
+    color: #d7d7d7;
+        } 
+}
+
+@media (min-width: 1366px) {
+    
+     body {
+        
+     margin: 0px 100px 0px 100px;   
+}
+    
+img.logo {
+    
+max-width: 4em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 7%;
+}
+
+.welcome {
+
+    font-size: 10em;
+    line-height: 1.35em;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.Intro p{
+    
+font-size: 3.5em;
+line-height: 1.24em;        
+}
+
+.bio {
+    margin-bottom: 15%;  
+}
+
+.projects h1 {
+    font-size: 6.3em;
+    margin-bottom: 10%;
+}
+
+.contact h1 {
+    
+    font-size: 6.3em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 4.7em;
+    line-height: 1.03em;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap:50px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.8em;
+}
+
+footer {
+    margin-bottom: 8%
+}
+
+.heading h2 {
+    
+    font-size: 2.4em;
+}
+
+.heading h3 {
+    
+    font-size: 1.9em;
+    color: #d7d7d7;
+        } 
+}
+
+@media (min-width: 1600px) {
+    
+     body {
+        
+     margin: 0px 110px 0px 110px;   
+}
+    
+img.logo {
+    
+max-width: 4.5em;
+height: auto;    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 2.1em;
+    margin-left: 1.5em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 8%;
+}
+
+.welcome {
+
+    font-size: 12em;
+    line-height: 1.35em;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.Intro p{
+    
+font-size: 4.5em;
+line-height: 1.25em;        
+}
+
+.bio {
+    margin-bottom: 15%;  
+}
+
+.projects h1 {
+    font-size: 8em;
+    margin-bottom: 10%;
+}
+
+.contact h1 {
+    
+    font-size: 8em;
+    margin-bottom: 5%;
+}
+
+.getintouch h2 {
+    
+    font-size: 4.7em;
+    line-height: 1.1em;
+    margin-bottom: 8%;
+    
+      
+}
+
+img.p1 {
+    width: 100%;
+}
+
+img.p2 {
+    
+    width: 100%;
+}
+
+.p12 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap:50px;
+    margin-bottom: 5%;
+     
+}
+
+.heading {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.3em;
+    font-size: 2.1em;
+}
+
+footer {
+    margin-bottom: 10%
+}
+
+.heading h2 {
+    
+    font-size: 3.2em;
+}
+
+.heading h3 {
+    
+    font-size: 2.5em;
+    color: #d7d7d7;
+        } 
+}
+  
+    
+        
+        
+      
+    
+    
+    
