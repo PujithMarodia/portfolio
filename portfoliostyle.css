@@ -60,7 +60,7 @@ nav a {
 nav a:hover {
     
     text-decoration:line-through;
-    color: #d7d7d7;
+    color: #898989;
 }
 
 .p1:hover {
@@ -81,7 +81,7 @@ nav a:hover {
 
 .social a:hover {
     text-decoration:line-through;
-    color: #d7d7d7;
+    color: #898989;
 }
 
 nav {
