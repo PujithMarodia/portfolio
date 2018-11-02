@@ -274,12 +274,12 @@ nav {
 
 .welcome h2 {
 
-    font-size: 1.7
+    font-size: 1.7em;
 }
 
 .para p{
     
-font-size: 1.1m;
+font-size: 1.1em;
 line-height: 1.23em;
 margin-bottom: 15%;
     
@@ -311,7 +311,7 @@ margin-bottom: 15%;
 
 .para2 p{
     
-font-size: 1.1m;
+font-size: 1.1em;
 line-height: 1.23em;
 margin-bottom: 10%;
     
@@ -345,7 +345,7 @@ line-height: 1.23em;
 
 .contenth {
     
-    font-size: 1.4m;
+    font-size: 1.4em;
     margin-bottom: 5%;
 }
 
@@ -389,12 +389,12 @@ margin-left: -30%;
 
 .contact{
     
-    font-size: 1.7
+    font-size: 1.7em;
     margin-bottom: 3%;
 }
 
 .getintouch {
-    font-size: 1.1m;
+    font-size: 1.1em;
     margin-bottom: 10%;
 }
 
@@ -409,8 +409,8 @@ footer li {
 li a {
     text-decoration: none;
     color: black;
-    margin-right: .4;
-    font-size: .8;  
+    margin-right: .4em;
+    font-size: .8em;  
 }
 
 footer {
