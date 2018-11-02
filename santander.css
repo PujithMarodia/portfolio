@@ -1,0 +1,1562 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+     margin: 0px 100px 0px 100px;
+    
+}
+
+h1 {
+    font-family: 'Playfair Display bold', serif;
+    color: #111111;
+       
+}
+
+h2 {  
+    font-family: 'Playfair Display bold', serif;
+    color: #111111;
+}
+
+h3 {
+    font-family: 'Open Sans light', sans-serif;
+    color: #111111;
+}
+
+p {
+    font-family: 'Open Sans semi-bold', sans-serif;
+    color: #111111;
+}
+
+a {
+    font-family: 'Open Sans regular', sans-serif;
+    color: #111111;
+}
+
+img.logo {
+    
+max-width: 3.7em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.4em;
+    margin-left: 35px;
+}
+
+nav a:hover {
+    
+    text-decoration:line-through;
+    color: #898989;
+}
+
+.social a:hover {
+    text-decoration:line-through;
+    color: #898989;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 6%;
+}
+
+.welcome {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.welcome h1 {
+
+    font-size: 14em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 5.3em;
+}
+
+.para p{
+    
+font-size: 2.8em;
+line-height: 1.23em;
+margin-bottom: 7%;
+    
+}
+
+.para {
+   margin-bottom: 13%;
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 12%;
+}
+
+.heading {
+    
+    line-height: 6em;
+    margin-bottom: 7%;
+}
+
+.heading h1 {
+    
+    font-size: 5.3em;
+}
+
+.heading h2 {
+    
+    font-size: 3.5em;
+}
+
+.para2 p{
+    
+font-size: 2.8em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 2em;
+line-height: 1.23em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 2.5em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 3.5em;
+    margin-bottom: 3%;
+}
+
+.getintouch {
+    font-size: 2.5em;
+    margin-bottom: 5%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 2em;
+    font-size: 1.7em;  
+}
+
+footer {
+    margin-bottom: 10%;
+}
+
+@media (max-width: 600px) {
+    
+body {
+        margin: 0px 30px 0px 30px;
+    }
+    
+img.logo {
+    
+max-width: 2em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: .8em;
+    margin-left: 1.1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 12%;
+}
+
+.welcome {
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+
+.welcome h1 {
+
+    font-size: 4em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 1.7em;
+}
+
+.para p{
+    
+font-size: 1.1em;
+line-height: 1.23em;
+margin-bottom: 15%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 12%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 7%;   
+}
+
+.heading h1 {
+    
+    font-size: 1.7em;
+    line-height: normal;
+    margin-bottom: 5%;
+}
+
+.heading h2 {
+    
+    font-size: 1.5em;
+}
+
+.para2 p{
+    
+font-size: 1.1em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: .8em;
+line-height: 1.23em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 1.4em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 1.7em;
+    margin-bottom: 3%;
+}
+
+.getintouch {
+    font-size: 1.1em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: .4em;
+    font-size: .8em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
+
+@media (min-width: 600px) {
+    
+body {
+        margin: 0px 30px 0px 30px;
+    }
+    
+img.logo {
+    
+max-width: 3.2em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.2em;
+    margin-left: 1.1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 12%;
+}
+
+.welcome {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+.welcome h1 {
+
+    font-size: 7em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 3.5em;
+}
+
+.para p{
+    
+font-size: 2em;
+line-height: 1.23em;
+margin-bottom: 20%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 9%;    
+}
+
+.heading h1 {
+    
+    font-size: 3.5em;
+    line-height: normal;
+    margin-bottom: 4%;
+}
+
+.heading h2 {
+    
+    font-size: 2.5em;
+}
+
+.para2 p{
+    
+font-size: 2em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 1.3em;
+line-height: 1.3em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 2.3em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 30px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 3.5em;
+    margin-bottom: 4%;
+}
+
+.getintouch {
+    font-size: 1.8em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1em;
+    font-size: 1.2em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
+
+
+
+@media (min-width: 768px) {
+    
+body {
+        margin: 0px 50px 0px 50px;
+    }
+    
+img.logo {
+    
+max-width: 3.6em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.3em;
+    margin-left: 1.1em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 12%;
+}
+
+.welcome {
+    margin-top: 17%;
+    margin-bottom: 17%;
+}
+
+.welcome h1 {
+
+    font-size: 9em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 4em;
+}
+
+.para p{
+    
+font-size: 2.3em;
+line-height: 1.23em;
+margin-bottom: 17%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 9%;    
+}
+
+.heading h1 {
+    
+    font-size: 4em;
+    line-height: normal;
+    margin-bottom: 4%;
+}
+
+.heading h2 {
+    
+    font-size: 3em;
+}
+
+.para2 p{
+    
+font-size: 2.3em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 1.6em;
+line-height: 1.3em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 2.6em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 4em;
+    margin-bottom: 4%;
+}
+
+.getintouch {
+    font-size: 2.3em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.3em;
+    font-size: 1.5em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
+
+@media (min-width: 900px) {
+    
+body {
+        margin: 0px 65px 0px 65px;
+    }
+    
+img.logo {
+    
+max-width: 4em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 10%;
+}
+
+.welcome {
+    margin-top: 17%;
+    margin-bottom: 17%;
+}
+
+.welcome h1 {
+
+    font-size: 10.6em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 4.2em;
+}
+
+.para p{
+    
+font-size: 2.5em;
+line-height: 1.23em;
+margin-bottom: 17%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 9%;    
+}
+
+.heading h1 {
+    
+    font-size: 4em;
+    line-height: normal;
+    margin-bottom: 4%;
+}
+
+.heading h2 {
+    
+    font-size: 3.1em;
+}
+
+.para2 p{
+    
+font-size: 2.5em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 1.8em;
+line-height: 1.3em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 2.8em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 4.2em;
+    margin-bottom: 4%;
+}
+
+.getintouch {
+    font-size: 2.5em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.6em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
+
+@media (min-width: 1080px) {
+    
+body {
+        margin: 0px 75px 0px 75px;
+    }
+    
+img.logo {
+    
+max-width: 4em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 7%;
+}
+
+.welcome {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.welcome h1 {
+
+    font-size: 12em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 4.7em;
+}
+
+.para p{
+    
+font-size: 2.7em;
+line-height: 1.23em;
+margin-bottom: 15%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 15%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 9%;   
+}
+
+.heading h1 {
+    
+    font-size: 4.5em;
+    line-height: normal;
+    margin-bottom: 3%;
+}
+
+.heading h2 {
+    
+    font-size: 3.5em;
+}
+
+.para2 p{
+    
+font-size: 2.7em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 2em;
+line-height: 1.3em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 3.2em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 4.5em;
+    margin-bottom: 4%;
+}
+
+.getintouch {
+    font-size: 2.7em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.7em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
+
+@media (min-width: 1366px) {
+    
+body {
+        margin: 0px 100px 0px 100px;
+    }
+    
+img.logo {
+    
+max-width: 4em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 7%;
+}
+
+.welcome {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.welcome h1 {
+
+    font-size: 14em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 5.3em;
+}
+
+.para p{
+    
+font-size: 3em;
+line-height: 1.23em;
+margin-bottom: 15%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 13%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 8%;    
+}
+
+.heading h1 {
+    
+    font-size: 5.3em;
+    line-height: normal;
+    margin-bottom: 2%;
+}
+
+.heading h2 {
+    
+    font-size: 3.5em;
+}
+
+.para2 p{
+    
+font-size: 3em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 2.2em;
+line-height: 1.2em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 3.3em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 5.3em;
+    margin-bottom: 4%;
+}
+
+.getintouch {
+    font-size: 3em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.1em;
+    font-size: 1.8em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
+
+@media (min-width: 1600px) {
+    
+body {
+        margin: 0px 110px 0px 110px;
+    }
+    
+img.logo {
+    
+max-width: 4.5em;
+height: auto;
+    
+}
+
+.navbar {
+    text-align: right;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 2.1em;
+    margin-left: 1.3em;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin-top: 8%;
+}
+
+.welcome {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.welcome h1 {
+
+    font-size: 15em;
+    
+}
+
+.welcome h2 {
+
+    font-size: 5.5em;
+}
+
+.para p{
+    
+font-size: 3.2em;
+line-height: 1.23em;
+margin-bottom: 15%;
+    
+}
+
+.display1 {
+    
+    width: 100%;
+    margin-bottom: 13%;
+}
+
+.heading {
+    
+    line-height: normal;
+    margin-bottom: 8%;    
+}
+
+.heading h1 {
+    
+    font-size: 5.5em;
+    line-height: normal;
+    margin-bottom: 2%;
+}
+
+.heading h2 {
+    
+    font-size: 3.7em;
+}
+
+.para2 p{
+    
+font-size: 3.2em;
+line-height: 1.23em;
+margin-bottom: 10%;
+    
+}
+
+.wireframe1 {
+    
+   width: 100%;
+   margin-bottom: 8%; 
+    
+}
+
+.design {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%;
+}
+
+.para3 {
+    
+font-size: 2.5em;
+line-height: 1.2em;
+    
+}
+
+.screen1 {
+    width: 100%;
+}
+
+.contenth {
+    
+    font-size: 3.5em;
+    margin-bottom: 5%;
+}
+
+.design2 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design3 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+.design4 {
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 50px;
+    margin-bottom: 10%; 
+}
+
+
+
+video {
+width: 160%;
+margin-left: -30%;    
+}
+
+.video1 {
+    overflow: hidden;
+    width: 55%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+.contact{
+    
+    font-size: 5.5em;
+    margin-bottom: 4%;
+}
+
+.getintouch {
+    font-size: 3.7em;
+    margin-bottom: 10%;
+}
+
+span {
+    color: #558bff;
+}
+
+footer li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    margin-right: 1.3em;
+    font-size: 2.1em;  
+}
+
+footer {
+    margin-bottom: 12%;
+}
+    
+}
