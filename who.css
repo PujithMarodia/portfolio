@@ -265,18 +265,18 @@ nav {
 
 .welcome h1 {
 
-    font-size: 4.7em;
+    font-size: 4em;
     
 }
 
 .welcome h2 {
 
-    font-size: 2.5em;
+    font-size: 1.7em;
 }
 
 .para p{
     
-font-size: 1.5em;
+font-size: 1.1em;
 line-height: 1.23em;
 margin-bottom: 8%;
     
@@ -386,12 +386,12 @@ margin-left: -30%;
 
 .contact{
     
-    font-size: 2em;
+    font-size: 1.7em;
     margin-bottom: 3%;
 }
 
 .getintouch {
-    font-size: 1.5em;
+    font-size: 1.1em;
     margin-bottom: 10%;
 }
 
@@ -406,8 +406,8 @@ footer li {
 li a {
     text-decoration: none;
     color: black;
-    margin-right: .6em;
-    font-size: 1em;  
+    margin-right: .4em;
+    font-size: .8em;  
 }
 
 footer {
