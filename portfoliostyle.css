@@ -203,7 +203,7 @@ height: auto;
 nav a {
     text-decoration: none;
     color: black;
-    font-size: .9em;
+    font-size: .8em;
     margin-left: 1.1em;
 }
 
@@ -216,7 +216,7 @@ nav {
 
 .welcome {
 
-    font-size: 3em;
+    font-size: 2.4em;
     line-height: 1.35em;
     margin-top: 20%;
     margin-bottom: 20%;
@@ -224,7 +224,7 @@ nav {
 
 .Intro p{
     
-font-size: 1.3em;
+font-size: 1em;
 line-height: 1.26em;        
 }
 
@@ -233,19 +233,19 @@ line-height: 1.26em;
 }
 
 .projects h1 {
-    font-size: 2.6em;
+    font-size: 2em;
     margin-bottom: 15%;
 }
 
 .contact h1 {
     
-    font-size: 2.6em;
+    font-size: 2em;
     margin-bottom: 5%;
 }
 
 .getintouch h2 {
     
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: auto;
     margin-bottom: 8%;
     
@@ -285,8 +285,8 @@ footer li {
 li a {
     text-decoration: none;
     color: black;
-    margin-right: .5em;
-    font-size: 1em;
+    margin-right: .4em;
+    font-size: .8em;
 }
 
 footer {
@@ -295,12 +295,12 @@ footer {
 
 .heading h2 {
     
-    font-size: 1.7em;
+    font-size: 1.4em;
 }
 
 .heading h3 {
     
-    font-size: 1.2em;
+    font-size: 1.1em;
     color: #d7d7d7;
     } 
 }
