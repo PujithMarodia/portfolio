@@ -250,7 +250,7 @@ height: auto;
 nav a {
     text-decoration: none;
     color: black;
-    font-size: .9em;
+    font-size: .8em;
     margin-left: 1.1em;
 }
 
@@ -268,18 +268,18 @@ nav {
 
 .welcome h1 {
 
-    font-size: 4.7em;
+    font-size: 4em;
     
 }
 
 .welcome h2 {
 
-    font-size: 2.5em;
+    font-size: 1.7
 }
 
 .para p{
     
-font-size: 1.5em;
+font-size: 1.1m;
 line-height: 1.23em;
 margin-bottom: 15%;
     
@@ -299,19 +299,19 @@ margin-bottom: 15%;
 
 .heading h1 {
     
-    font-size: 2.5em;
+    font-size: 1.7em;
     line-height: normal;
     margin-bottom: 5%;
 }
 
 .heading h2 {
     
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .para2 p{
     
-font-size: 1.5em;
+font-size: 1.1m;
 line-height: 1.23em;
 margin-bottom: 10%;
     
@@ -345,7 +345,7 @@ line-height: 1.23em;
 
 .contenth {
     
-    font-size: 1.5em;
+    font-size: 1.4m;
     margin-bottom: 5%;
 }
 
@@ -389,12 +389,12 @@ margin-left: -30%;
 
 .contact{
     
-    font-size: 2em;
+    font-size: 1.7
     margin-bottom: 3%;
 }
 
 .getintouch {
-    font-size: 1.5em;
+    font-size: 1.1m;
     margin-bottom: 10%;
 }
 
@@ -409,8 +409,8 @@ footer li {
 li a {
     text-decoration: none;
     color: black;
-    margin-right: .6em;
-    font-size: 1em;  
+    margin-right: .4;
+    font-size: .8;  
 }
 
 footer {
