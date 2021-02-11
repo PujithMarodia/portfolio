@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@700&family=Space+Grotesk&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -10,29 +12,46 @@ body {
 }
 
 h1 {
-    font-family: 'Playfair Display bold', serif;
+    font-family: 'IBM Plex Serif', serif;
     color: #111111;
+    font-size: 5rem;
+    line-height: 125%;
        
 }
 
+h1:first-child {
+    
+    margin-top: 5%;
+}
+
+h1:last-child: {
+    
+    margin-bottom: 5%;
+}
+
 h2 {  
-    font-family: 'Playfair Display semi-bold', serif;
+    font-family: 'IBM Plex Serif', serif;
     color: #111111;
 }
 
 h3 {
-    font-family: 'Open Sans light', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     color: #5B5B5B;
 }
 
 p {
-    font-family: 'Open Sans regular', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     color: #111111;
 }
 
 a {
-    font-family: 'Open Sans regular', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     color: #111111;
+}
+
+.link {
+    
+    color: #0000FF;
 }
 
 span {
@@ -91,15 +110,15 @@ nav {
     margin-top: 6%;
 }
 
-
-.welcome {
-
-    font-size: 7em;
-    line-height: 1.5em;
-    margin-top: 15%;
-    margin-bottom: 10%;
+.para > p+p {
+    
+    margin-top: 2rem;
 }
 
+.title {
+    margin-bottom: 2%;
+    
+}
 .Intro p{
     
 font-size: 2.0em;
