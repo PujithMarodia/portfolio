@@ -60,10 +60,15 @@ span {
 
 .oops {
     
-    color: #111111;
+    color: #D9AD00;
     text-decoration:line-through;
 }
 
+.update {
+
+color: red;
+
+}
 img.logo {
     
 max-width:3.7em;
