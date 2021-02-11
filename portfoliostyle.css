@@ -589,8 +589,8 @@ nav {
 
     font-size: 4.5em;
     line-height: 1.5em;
-    margin-top: 6%;
-    margin-bottom: 6%;
+    margin-top: 8%;
+    margin-bottom: 8%;
 }
 
 .Intro p{
@@ -601,7 +601,7 @@ margin-right: 5%;
 }
 
 .bio {
-    margin-bottom: 6%;  
+    margin-bottom: 8%;  
 }
 
 .projects h1 {
@@ -613,7 +613,7 @@ margin-right: 5%;
     
     font-size: 1.8em;
     margin-bottom: 3%;
-    margin-top: 5%;
+    margin-top: 8%;
 }
 
 .getintouch h2 {
