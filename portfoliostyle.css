@@ -710,16 +710,16 @@ nav {
 
 .welcome {
 
-    font-size: 8.3em;
-    line-height: 1.35em;
+    font-size: 6em;
+    line-height: 1.5em;
     margin-top: 15%;
     margin-bottom: 15%;
 }
 
 .Intro p{
     
-font-size: 3em;
-line-height: 1.24em;        
+font-size: 1.4em;
+line-height: 1.5em;        
 }
 
 .bio {
@@ -727,20 +727,20 @@ line-height: 1.24em;
 }
 
 .projects h1 {
-    font-size: 6.3em;
+    font-size: 2em;
     margin-bottom: 10%;
 }
 
 .contact h1 {
     
-    font-size: 6.3em;
+    font-size: 2em;
     margin-bottom: 5%;
 }
 
 .getintouch h2 {
     
-    font-size: 4.7em;
-    line-height: 1.03em;
+    font-size: 1.5em;
+    line-height: 1.5em;
     margin-bottom: 8%;
     
       
@@ -780,7 +780,7 @@ li a {
     text-decoration: none;
     color: black;
     margin-right: 1.1em;
-    font-size: 1.8em;
+    font-size: 1.4em;
 }
 
 footer {
