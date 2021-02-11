@@ -248,25 +248,26 @@ nav {
 
 .welcome {
 
-    font-size: 2.4em;
+    font-size: 2em;
     line-height: 1.35em;
-    margin-top: 20%;
-    margin-bottom: 20%;
+    margin-top: 13%;
+    margin-bottom: 13%;
 }
 
 .Intro p{
     
-font-size: 1em;
-line-height: 1.26em;        
+font-size: .9em;
+line-height: 1.7em;  
+margin-right: 12%;    
 }
 
 .bio {
-    margin-bottom: 20%;  
+    margin-bottom: 13%;  
 }
 
 .projects h1 {
     font-size: 2em;
-    margin-bottom: 15%;
+    margin-bottom: 8%;
 }
 
 .contact h1 {
@@ -277,11 +278,10 @@ line-height: 1.26em;
 
 .getintouch h2 {
     
-    font-size: 1.5em;
-    line-height: auto;
-    margin-bottom: 8%;
+    font-size: 1em;
+    line-height: 1.7em;
+    margin-bottom: 6%;
     
-      
 }
 
 img.p1 {
@@ -322,7 +322,7 @@ li a {
 }
 
 footer {
-    margin-bottom: 15%
+    margin-bottom: 10%
 }
 
 .heading h2 {
@@ -333,7 +333,7 @@ footer {
 .heading h3 {
     
     font-size: 1.1em;
-    color: #d7d7d7;
+    color: #5B5B5B;
     } 
 }
 
@@ -373,37 +373,38 @@ nav {
 
 .welcome {
 
-    font-size: 4.4em;
-    line-height: 1.35em;
-    margin-top: 20%;
-    margin-bottom: 20%;
+    font-size: 2.5em;
+    line-height: 1.5em;
+    margin-top: 15%;
+    margin-bottom: 15%;
 }
 
 .Intro p{
     
-font-size: 2em;
-line-height: 1.26em;        
+font-size: 1em;
+line-height: 1.7em;
+margin-right: 12%;    
 }
 
 .bio {
-    margin-bottom: 20%;  
+    margin-bottom: 15%;  
 }
 
 .projects h1 {
-    font-size: 3.7em;
-    margin-bottom: 15%;
+    font-size: 2.5em;
+    margin-bottom: 8%;
 }
 
 .contact h1 {
     
-    font-size: 3.7em;
+    font-size: 2.5em;
     margin-bottom: 5%;
 }
 
 .getintouch h2 {
     
-    font-size: 2.5em;
-    line-height: auto;
+    font-size: 1.2em;
+    line-height: 1.7em;
     margin-bottom: 8%;
     
       
@@ -458,7 +459,7 @@ footer {
 .heading h3 {
     
     font-size: 1.2em;
-    color: #d7d7d7;
+    color: #5B5B5B;
         } 
 }
 
@@ -496,37 +497,37 @@ nav {
 
 .welcome {
 
-    font-size: 5.8em;
-    line-height: 1.35em;
-    margin-top: 20%;
-    margin-bottom: 20%;
+    font-size: 4.5em;
+    line-height: 1.5em;
+    margin-top: 12%;
+    margin-bottom: 12%;
 }
 
 .Intro p{
     
-font-size: 2.2em;
-line-height: 1.24em;        
+font-size: 1.2em;
+line-height: 1.7em;        
 }
 
 .bio {
-    margin-bottom: 20%;  
+    margin-bottom: 12%;  
 }
 
 .projects h1 {
-    font-size: 5em;
-    margin-bottom: 15%;
+    font-size: 3em;
+    margin-bottom: 6%;
 }
 
 .contact h1 {
     
-    font-size: 5em;
+    font-size: 3em;
     margin-bottom: 5%;
 }
 
 .getintouch h2 {
     
-    font-size: 3.3em;
-    line-height: 1.03em;
+    font-size: 1.4em;
+    line-height: 1.7em;
     margin-bottom: 8%;
     
       
@@ -570,7 +571,7 @@ li a {
 }
 
 footer {
-    margin-bottom: 15%
+    margin-bottom: 10%
 }
 
 .heading h2 {
@@ -900,7 +901,7 @@ margin-right: 22%;
 .getintouch h2 {
     
     font-size: 1.5em;
-    line-height: 1.5em;
+    line-height: 1.7em;
     margin-bottom: 2%;
     
       
