@@ -724,7 +724,7 @@ margin-right: 20%;
 }
 
 .bio {
-    margin-bottom: 8%;  
+    margin-bottom: 10%;  
 }
 
 .projects h1 {
@@ -736,6 +736,7 @@ margin-right: 20%;
     
     font-size: 2em;
     margin-bottom: 3%;
+    margin-top: 5%;
 }
 
 .getintouch h2 {
