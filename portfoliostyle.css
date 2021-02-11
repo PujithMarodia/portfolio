@@ -246,13 +246,24 @@ nav {
     margin-top: 12%;
 }
 
-.welcome {
+.welcome h1{
 
-    font-size: 2em;
-    line-height: 1.35em;
-    margin-top: 13%;
-    margin-bottom: 13%;
+    font-size: 3em;
+    line-height: 70%;
+    margin-bottom: 10%;
 }
+    
+.welcome h1:first-child{
+        
+    margin-top: 17%;     
+    
+    }    
+
+.welcome h1:last-child{
+        
+    margin-bottom: 17%;     
+    
+    }
 
 .title {
     
