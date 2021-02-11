@@ -268,7 +268,7 @@ nav {
 .title {
     
     font-size: 2rem;
-    padding-top: 3%;
+    padding-top: 12%;
     margin-bottom: 5%;
     
 }
@@ -279,6 +279,7 @@ font-size: .9em;
 line-height: 1.7em;  
 margin-right: 12%;    
 }
+
 
 .bio {
     margin-bottom: 13%;  
@@ -401,7 +402,7 @@ nav {
 .title {
     
     font-size: 2.5rem;
-    padding-top: 3%;
+    padding-top: 7%;
     margin-bottom: 5%;
     
 }
@@ -412,6 +413,7 @@ font-size: 1em;
 line-height: 1.7em;
 margin-right: 12%;    
 }
+
 
 .bio {
     margin-bottom: 15%;  
@@ -943,6 +945,7 @@ line-height: 1.8em;
 margin-right: 22%;       
 }
 
+    
 .bio {
     margin-bottom: 8%;  
 }
@@ -963,7 +966,7 @@ margin-right: 22%;
     font-size: 1.5em;
     line-height: 1.7em;
     margin-bottom: 2%;
-    margin-right: 15%;
+    margin-right: 20%;
     
       
 }
