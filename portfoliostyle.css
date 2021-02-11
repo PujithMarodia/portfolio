@@ -834,7 +834,7 @@ nav {
 .welcome {
 
     font-size: 6em;
-    line-height: 2em;
+    line-height: 1.8em;
     margin-top: 8%;
     margin-bottom: 8%;
 }
@@ -843,7 +843,7 @@ nav {
     
 font-size: 1.4em;
 line-height: 1.8em; 
-margin-right: 15%;       
+margin-right: 18%;       
 }
 
 .bio {
@@ -865,7 +865,7 @@ margin-right: 15%;
     
     font-size: 1.5em;
     line-height: 1.5em;
-    margin-bottom: 4%;
+    margin-bottom: 2%;
     
       
 }
@@ -882,17 +882,17 @@ img.p2 {
 .p12 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap:50px;
-    margin-bottom: 5%;
+    grid-column-gap:100px;
+    margin-bottom: 2%;
      
 }
 
 .heading {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-column-gap: 50px;
+    grid-column-gap: 100px;
     text-align: center;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
     
 }
 
@@ -908,7 +908,7 @@ li a {
 }
 
 footer {
-    margin-bottom: 4%
+    margin-bottom: 7%
 }
 
 .heading h2 {
