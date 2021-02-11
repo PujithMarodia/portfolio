@@ -36,7 +36,7 @@ a {
 }
 
 span {
-    color: #558bff;
+    color: #0000FF;
 }
 
 img.logo {
@@ -60,7 +60,7 @@ nav a {
 nav a:hover {
     
     text-decoration:line-through;
-    color: #898989;
+    color: #5B5B5B;
 }
 
 .p1:hover {
@@ -81,7 +81,7 @@ nav a:hover {
 
 .social a:hover {
     text-decoration:line-through;
-    color: #898989;
+    color: #5B5B5B;
 }
 
 nav {
@@ -94,7 +94,7 @@ nav {
 
 .welcome {
 
-    font-size: 9em;
+    font-size: 7em;
     line-height: 1.35em;
     margin-top: 15%;
     margin-bottom: 10%;
@@ -102,7 +102,7 @@ nav {
 
 .Intro p{
     
-font-size: 3.5em;
+font-size: 2.0em;
 line-height: 1.23em;        
 }
 
@@ -111,19 +111,19 @@ line-height: 1.23em;
 }
 
 .projects h1 {
-    font-size: 5.3em;
+    font-size: 3.5em;
     margin-bottom: 10%;
 }
 
 .contact h1 {
     
-    font-size: 5.3em;
+    font-size: 3.5em;
     margin-bottom: 3%;
 }
 
 .getintouch h2 {
     
-    font-size: 4em;
+    font-size: 2.0em;
     line-height: auto;
     margin-bottom: 5%;
     
@@ -164,7 +164,7 @@ li a {
     text-decoration: none;
     color: black;
     margin-right: 2em;
-    font-size: 1.7em;
+    font-size: 1.4em;
 }
 
 footer {
@@ -179,7 +179,7 @@ footer {
 .heading h3 {
     
     font-size: 2em;
-    color: #d7d7d7;
+    color: #5B5B5B;
 }
 
 @media (max-width: 600px) {
